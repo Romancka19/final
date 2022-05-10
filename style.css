@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: black;
+  background-color: white;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.container {
+  max-width: 928px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+p {
+  max-width: 928px;
+  margin: 0 auto;
+  padding: 0 16px;
+  margin-bottom: 20px;
+}
+
+.beginning {
+  font-size: 22px;
+  margin: 0 auto;
+  padding: 0 16px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin-top: 33px;
+  margin-left: 500px;
+}
+
+.fig {
+    text-align: center; /* Выравнивание по центру */
+    font-style: italic; /* Курсивное начертание */
+    margin-top: 0; /* Отступ сверху */
+    margin-bottom: 5px; /* Отступ снизу */
+    color: #666; /* Цвет подрисуночной подписи */
+   }
+
+.big {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.norm {
+    font-size: 20px;
+}
+
+.center {
+    margin-left: 500px;
+}
+
+ol li {
+    font-size: 20px;
+}
+
+img {
+    border-radius: 15%;
+}
+
+.last {
+    background-color: #DADAC7;
+}
+
+.container {
+    margin-top:50px;
+}  
